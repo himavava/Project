@@ -1,0 +1,4 @@
+#Thu Mar 07 18:55:01 PST 2019
+base.0=E\:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

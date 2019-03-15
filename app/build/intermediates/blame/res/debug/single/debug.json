@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_message.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carbon.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\carbon.png"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_title.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plasticyellow.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\plasticyellow.png"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plasticblue.jpg.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\plasticblue.jpg"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plasticgreen.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\plasticgreen.png"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preference.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plasticred.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\plasticred.png"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brushed_alu2.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\brushed_alu2.png"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brushed_alu.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\brushed_alu.png"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_light_alu.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\light_alu.png"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_option_menu.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\newobd files\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\drawable\\icon.png"
+    }
+]
