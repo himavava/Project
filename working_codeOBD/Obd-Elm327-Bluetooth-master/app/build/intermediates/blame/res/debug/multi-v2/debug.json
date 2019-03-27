@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,6,8,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "116,215,320,415",
+                        "endColumns": "46,53,48,47",
+                        "endOffsets": "158,264,364,458"
+                    },
+                    "to": {
+                        "startLines": "68,69,70,71",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2610,2657,2711,2760",
+                        "endColumns": "46,53,48,47",
+                        "endOffsets": "2652,2706,2755,2803"
+                    }
+                },
+                {
+                    "source": "E:\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,33,46,37,36,40,42,30,29,21,44,45,39,48,27,28,20,47,38,23,22,24,32,31,41,43",
+                        "startColumns": "4,4,4,4,4,6,4,4,4,4,4,4,6,4,4,4,4,4,5,4,4,4,4,4,4,4",
+                        "startOffsets": "739,1575,2168,1703,1659,1837,1956,1383,1315,853,2072,2134,1795,2264,1185,1246,815,2210,1747,988,929,1089,1503,1439,1902,2018",
+                        "endColumns": "46,56,41,42,43,66,61,55,67,75,61,33,41,49,60,68,37,53,46,100,58,61,71,63,53,53",
+                        "endOffsets": "781,1627,2205,1741,1698,1897,2013,1434,1378,924,2129,2163,1830,2309,1241,1310,848,2259,1788,1084,983,1146,1570,1498,1951,2067"
+                    },
+                    "to": {
+                        "startLines": "74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2922,2969,3026,3068,3111,3155,3220,3282,3338,3406,3482,3544,3578,3618,3668,3729,3798,3836,3890,3936,4033,4092,4154,4226,4290,4344",
+                        "endColumns": "46,56,41,42,43,64,61,55,67,75,61,33,39,49,60,68,37,53,45,96,58,61,71,63,53,53",
+                        "endOffsets": "2964,3021,3063,3106,3150,3215,3277,3333,3401,3477,3539,3573,3613,3663,3724,3793,3831,3885,3931,4028,4087,4149,4221,4285,4339,4393"
+                    }
+                },
+                {
+                    "source": "E:\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "3,7,11,17,23,40,64,57",
+                        "startColumns": "4,4,5,4,5,4,4,5",
+                        "startOffsets": "58,218,359,574,780,1635,2420,2265",
+                        "endLines": "6,10,16,22,39,56,69,62",
+                        "endColumns": "19,19,19,19,19,19,19,19",
+                        "endOffsets": "209,349,565,770,1626,2256,2589,2410"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,16,22,39,56,62",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,261,397,608,809,1660,2286,2460",
+                        "endLines": "5,9,15,21,38,55,61,67",
+                        "endColumns": "19,19,19,19,19,19,19,19",
+                        "endOffsets": "256,392,603,804,1655,2281,2455,2605"
+                    }
+                },
+                {
+                    "source": "E:\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "40",
+                        "endColumns": "24",
+                        "endOffsets": "1794"
+                    },
+                    "to": {
+                        "startLines": "100",
+                        "startColumns": "4",
+                        "startOffsets": "4398",
+                        "endLines": "137",
+                        "endColumns": "24",
+                        "endOffsets": "6106"
+                    }
+                },
+                {
+                    "source": "E:\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "72,73",
+                        "startColumns": "4,4",
+                        "startOffsets": "2808,2866",
+                        "endColumns": "57,55",
+                        "endOffsets": "2861,2917"
+                    }
+                }
+            ]
+        }
+    ]
+}

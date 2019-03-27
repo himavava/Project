@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:3:7-30
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:4:7-31
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:12:5-24:19
+	android:label
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:12:18-50
+	android:icon
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:14:18-47
+	android:alwaysRetainTaskState
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:13:10-46
+activity#com.obdelm327.OBDActivity
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:label
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:16:65-97
+	android:configChanges
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:16:14-64
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:15:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.obdelm327.DeviceListActivity
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:22:9-106
+	android:label
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:22:67-104
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:22:19-66
+activity#com.obdelm327.Prefs
+ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:23:9-75
+	android:label
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:23:41-73
+	android:name
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml:23:19-40
+uses-sdk
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Obd-Elm327-Bluetooth-master\Obd-Elm327-Bluetooth-master\app\src\main\AndroidManifest.xml
