@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 26 13:44:30 IST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Obd-Elm327-Bluetooth-master\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
