@@ -1,0 +1,4 @@
+#Sun Apr 21 09:50:51 IST 2019
+base.0=E\:\\working_code OBD\\working_codeOBD\\Obd-Elm327-Bluetooth-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
